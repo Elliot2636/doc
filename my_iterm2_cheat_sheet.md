@@ -14,3 +14,9 @@
 - Ctrl-w 删除光标至上一个上一个空格的位置
 - Options + 鼠标右键 可以快速将光标移动至点击处  
 备注: Meta键 可以将 iTerm2 下 "Preferences -> Profiles -> Keys" Left Options 设置为 Esc+
+
+# iTerm2
+- Command-t 快捷打开新tab
+
+# nvim
+- Shift-a 光标移动至行尾巴 并进入插入模式
